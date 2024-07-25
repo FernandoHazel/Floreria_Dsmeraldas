@@ -1,0 +1,34 @@
+# Node modules directory
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+typings/
+
+# Compiled output directories
+dist/
+build/
+
+# Environment variables file
+.env
+
+# Temporary files and directories
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
